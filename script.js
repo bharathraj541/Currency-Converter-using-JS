@@ -160,7 +160,7 @@ let country_list = {
   ZWD: "ZW"
 };
 
-let apiKey = "e759f92560e41c99ee6213a2";
+let apiKey = "72b95e0c80fed99904560ca1";
 
 const dropList = document.querySelectorAll("form select"),
   fromCurrency = document.querySelector(".from select"),
